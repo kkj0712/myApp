@@ -35,4 +35,4 @@ code
 + 깃허브에 올리는 폴더에 깃허브 주소가 연동되어 있어야 함.
 + 깃허브에 README 파일 확인
 
-![Alt text](img/4.jpg)
+![Alt text](img/4.JPG)
